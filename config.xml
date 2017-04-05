@@ -12,7 +12,7 @@ Aplicacion que muestra la bibliogracias de la programacion
 </description>
 
 <author href="https://build.phonegap.com" email="mariadelangel2909@hotmail.com">
-Maria delAngel Acosta Flores 4to G
+Guadalupe Santos Marin 4 g
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
@@ -42,6 +42,6 @@ Maria delAngel Acosta Flores 4to G
 
 <!-- colocar icono app -->
 
-<icon src="res/android/logo.png"/>
+<icon src="res/android/mdpi.png"/>
 
 </widget> 
